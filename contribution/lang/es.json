@@ -559,11 +559,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Alejarse",
+ 	 	 	 	"trans": "Paracetamol",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Te duele la cabeza? ¡Usa Pain Away™ para aliviar tu dolor!",
+ 	 	 	 	"trans": "¿Te duele la cabeza? ¡Paracetamol™ para aliviar tu dolor!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
